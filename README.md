@@ -1,4 +1,7 @@
-# Customer Segmentation using RFM & K-Means Clustering  
+# Customer Segmentation using RFM & K-Means Clustering 
+## 🔥 Dashboard Preview  
+![Customer Segmentation Dashboard](./dashboard_screenshot.png)
+
 
 ## 📌 Project Overview  
 This project analyzes customer behavior using **Recency, Frequency, and Monetary (RFM) analysis** and **K-Means clustering** to segment customers for targeted marketing strategies.  
@@ -21,4 +24,4 @@ This project analyzes customer behavior using **Recency, Frequency, and Monetary
 - 📊 **Tableau Dashboard**: [Insert Your Tableau Public Link]  
 - 🔍 **Medium Blog (Optional)**: [Insert Medium Blog Link]  
 
----
+
