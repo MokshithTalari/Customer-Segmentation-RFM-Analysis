@@ -1,6 +1,7 @@
-# Customer Segmentation using RFM & K-Means Clustering 
+# 📊 Customer Segmentation using RFM & K-Means Clustering  
 ## 🔥 Dashboard Preview  
 ![Customer Segmentation Dashboard](./dashboard_screenshot.png)
+
 
 
 ## 📌 Project Overview  
